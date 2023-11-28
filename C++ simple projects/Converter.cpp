@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-//take note that kung nasaan yung main() class yun yung mag rurun -sneki// 
 int convert(){
     int sagot;
 
